@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.in28minutes.unittesting</groupId>
-	<artifactId>unit-testing</artifactId>
+	<artifactId>spring-unit-testing-with-junit-and-mockito</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>unit-testing</name>
+	<name>spring-unit-testing-with-junit-and-mockito</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
